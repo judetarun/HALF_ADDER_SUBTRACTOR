@@ -66,14 +66,13 @@ Developed by: judetarun RegisterNumber: 24003400
 **RTL Schematic**
 
 ![Screenshot 2024-12-04 194600](https://github.com/user-attachments/assets/4df38b76-2945-40e4-9566-da6a0e1c9ef2)
-![image](https://github.com/user-attachments/assets/7658e909-1537-438f-9f3a-dcfa983d49c4)
 
 
 **Output/TIMING Waveform**
 
 ![Screenshot 2024-12-04 194734](https://github.com/user-attachments/assets/3f01a35a-7421-46c8-a33d-f9a5af0a2e0f)
+![image](https://github.com/user-attachments/assets/7658e909-1537-438f-9f3a-dcfa983d49c4)
 
-![ex32 wave](https://github.com/user-attachments/assets/5e13b8a7-ef8f-4bbb-89a7-bafe6d341454)
 
 **Result:**
 The truth table of the spcificed logic gates half adder and half subtractor circuit was successfully implemented and verificed using verilog prograingin quartus II.
