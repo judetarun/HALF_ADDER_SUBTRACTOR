@@ -66,8 +66,8 @@ Developed by: judetarun RegisterNumber: 24003400
 **RTL Schematic**
 
 ![Screenshot 2024-12-04 194600](https://github.com/user-attachments/assets/4df38b76-2945-40e4-9566-da6a0e1c9ef2)
+![image](https://github.com/user-attachments/assets/7658e909-1537-438f-9f3a-dcfa983d49c4)
 
-![ex32 logic](https://github.com/user-attachments/assets/a32cbf9b-aaff-4891-843f-d5e0f63992f2)
 
 **Output/TIMING Waveform**
 
